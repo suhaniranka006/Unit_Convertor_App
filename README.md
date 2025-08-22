@@ -29,6 +29,16 @@ Displays result in TextView.
 
 ---
 
+## 📱 Screenshots
+
+Here are some previews of the app:
+
+<img src="screenshots/unit_convertor_output1.jpg" alt="App Screenshot" width="250"/>
+<img src="screenshots/unit_convertor_output2.jpg" alt="App Screenshot" width="250"/>
+
+
+
+
 ## 🛠️ Tech Stack
 - **Language:** Kotlin  
 - **UI:** XML LinearLayout
