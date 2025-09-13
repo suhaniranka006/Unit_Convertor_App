@@ -126,7 +126,7 @@ class MainActivity : AppCompatActivity() {
          * EDGE-TO-EDGE UI HANDLING: Make app content extend behind system bars
          * WHY: Modern Android design guideline - better user experience
          */
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
+         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             // Get dimensions of system bars (status bar + navigation bar)
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
 
