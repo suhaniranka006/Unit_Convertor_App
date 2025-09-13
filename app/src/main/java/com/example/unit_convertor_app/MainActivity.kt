@@ -139,7 +139,7 @@ class MainActivity : AppCompatActivity() {
             )
 
             // Return the insets for proper event handling
-            insets
+             insets
         }
     }
 }
