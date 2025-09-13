@@ -133,7 +133,7 @@ class MainActivity : AppCompatActivity() {
             // Apply padding to avoid content being hidden behind system bars
             v.setPadding(
                 systemBars.left,    // Left padding = left system bar width
-                systemBars.top,     // Top padding = status bar height
+                 systemBars.top,     // Top padding = status bar height
                 systemBars.right,   // Right padding = right system bar width
                  systemBars.bottom   // Bottom padding = navigation bar height
             )
